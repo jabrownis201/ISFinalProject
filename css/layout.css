@@ -1,0 +1,48 @@
+
+.header{
+    padding-top: 75px;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 150px;
+    border: solid black 4px;
+    background-color: beige;
+    text-align: center;
+    background: url('https://brightspotcdn.byu.edu/dims4/default/22692d3/2147483647/strip/true/crop/3000x2056+0+0/resize/800x548!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2F16%2Faa%2Fc0898ef2fb77ce71af2f996b3fda%2Fymountain-byuphoto.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.leftmenu{
+    position: absolute;
+    top: 269px;
+    left: 9px;
+    bottom: 30px;
+    width: 150px;
+    border: solid white 2px;
+    background-color: rgb(180, 180, 173);
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flexbox;
+}
+.footer{
+    position: fixed;
+    bottom: 5px;
+    left: 9px;
+    width: 150px;
+    height: 20px;
+    border: solid white 2px;
+    background-color: rgb(180, 180, 173);
+}
+.mainbody{
+    position: absolute;
+    top: 269px;
+    right: 5px;
+    left: 174px;
+    bottom: 34px;
+    text-align: center;
+}
+.youtube{
+    padding: 25px;
+}
